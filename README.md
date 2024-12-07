@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Basic Hook** is a lightweight program that enables seamless switching between Basic and Aero visual styles directly through the Personalization page in the Control Panel.
+**Basic Hook** is a lightweight program that enables switching between Basic and Aero visual styles directly through the Personalization page in the Control Panel.
 
 ## Setup
 
