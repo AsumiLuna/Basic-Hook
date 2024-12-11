@@ -1,4 +1,4 @@
-# Basic Hook
+# Basic Hook lite (re-written for c++ to save over twice the memory
 
 ## Overview
 
